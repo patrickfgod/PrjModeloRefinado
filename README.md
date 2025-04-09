@@ -1,8 +1,8 @@
 ## PrjModeloRefinado
-Repositório para o Desafio de Projeto
+Repositório para o Desafio de Projeto DIO
 
 ### 📝 Descrição do Desafio
-Este repositório foi criado como parte de um desafio de projeto. O objetivo é desenvolver e refinar um modelo conceitual, que será avaliado futuramente.
+Este repositório foi criado como parte de um desafio de projeto. O objetivo é refinar um modelo conceitual.
 
 O esquema do modelo foi adicionado ao repositório para análise e documentação. Este arquivo fornece o contexto necessário para compreender o esquema desenvolvido.
 
